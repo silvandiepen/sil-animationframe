@@ -2,7 +2,7 @@
   "name": "animationframe",
   "description": "Simple animationframe function",
   "author": "Sil van Diepen",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "dist/animationframe.umd.js",
   "module": "dist/animationframe.esm.js",
   "unpkg": "dist/animationframe.min.js",
